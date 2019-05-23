@@ -1,0 +1,9 @@
+C:\Users\Living Room\documents\visual studio 2010\Projects\Trading Strategies Tester\Trading Strategies Tester\bin\Debug\Trading Strategies Tester.exe
+C:\Users\Living Room\documents\visual studio 2010\Projects\Trading Strategies Tester\Trading Strategies Tester\bin\Debug\Trading Strategies Tester.pdb
+C:\Users\Living Room\documents\visual studio 2010\Projects\Trading Strategies Tester\Trading Strategies Tester\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Living Room\documents\visual studio 2010\Projects\Trading Strategies Tester\Trading Strategies Tester\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Living Room\documents\visual studio 2010\Projects\Trading Strategies Tester\Trading Strategies Tester\obj\x86\Debug\Trading Strategies Tester.csproj.GenerateResource.Cache
+C:\Users\Living Room\documents\visual studio 2010\Projects\Trading Strategies Tester\Trading Strategies Tester\obj\x86\Debug\Trading Strategies Tester.exe
+C:\Users\Living Room\documents\visual studio 2010\Projects\Trading Strategies Tester\Trading Strategies Tester\obj\x86\Debug\Trading Strategies Tester.pdb
+C:\Users\Living Room\Documents\Visual Studio 2010\Projects\Trading Strategies Tester\Trading Strategies Tester\obj\x86\Debug\Trading Strategies Tester.csprojResolveAssemblyReference.cache
+C:\Users\Living Room\Documents\Visual Studio 2010\Projects\Trading Strategies Tester\Trading Strategies Tester\obj\x86\Debug\Trading Strategies Tester.csproj.ResolveComReference.cache
